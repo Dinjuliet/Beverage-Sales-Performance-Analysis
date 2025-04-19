@@ -35,31 +35,31 @@ It includes:
 [Overview of Beverage Sales Performance](![Screenshot 2025-04-18 114116](https://github.com/user-attachments/assets/ce5d5b1d-5607-4d79-8da2-fdb5295bb2d6)
 
 # 📊 KEY FINDINGS
-💼 Top Performing Retailer
+- 💼 Top Performing Retailer
 
 ✔️ Sodapop sold 9.1M units, outperforming all other retailers
 
 ➡️ Insight: Strong distribution and customer loyalty likely drive Sodapop’s success
 
-🥇 Best-Selling Beverage Brand
+- 🥇 Best-Selling Beverage Brand
 
 ✔️ Sprite leads in both revenue and volume
 
 ➡️ Insight: High popularity and optimal pricing strategy contribute to its top position
 
-📈 Monthly Sales Trends
+- 📈 Monthly Sales Trends
 
 ✔️ Peak in July, followed by a steady decline through March
 
 ➡️ Insight: Seasonality likely affects purchasing behavior; potential to align promotions accordingly
 
-📍 Regional Sales
+- 📍 Regional Sales
 
 ✔️ West region tops in total sales
 
 ➡️ Insight: Indicates strong market presence or consumer preference in that region
 
-💰 Profit Margins
+- 💰 Profit Margins
 
 ✔️ Highest margin: 78.81%
 
